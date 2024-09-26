@@ -37,3 +37,7 @@ Batasan masalah yang terdapat pada proyek ini adalah sebagai berikut:
 3. Fahmi Aziz (Data Scientist)
 4. Muhammad Asril Hanif (Data Engineer)
 5. Shinta Amalia (Data Analyst)
+
+# URL Deployments & Model
+- URL Deployment : https://huggingface.co/spaces/AsrilHanif/UJATIM
+- URL Model : https://github.com/AsrilHanif699/UJATIM-MODEL
